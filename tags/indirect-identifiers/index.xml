@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Indirect Identifiers on Hugo Profile</title>
-		<link>http://localhost:53365/tags/indirect-identifiers/</link>
+		<link>http://localhost:62303/tags/indirect-identifiers/</link>
 		<description>Recent content in Indirect Identifiers on Hugo Profile</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 17 Jun 2026 22:41:10 +0530</lastBuildDate>
 		
-			<atom:link href="http://localhost:53365/tags/indirect-identifiers/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:62303/tags/indirect-identifiers/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>When Anonymous Isn&#39;t Anonymous: Ethical Challenges in Student Survey Research</title>
-				<link>http://localhost:53365/blogs/placeholder-text/</link>
+				<link>http://localhost:62303/blogs/placeholder-text/</link>
 				<pubDate>Wed, 17 Jun 2026 22:41:10 +0530</pubDate>
-				<guid>http://localhost:53365/blogs/placeholder-text/</guid>
+				<guid>http://localhost:62303/blogs/placeholder-text/</guid>
 				<description>&lt;p&gt;Ethical Challenges in Student Survey Research.&lt;/p&gt;&#xA;&lt;p&gt;Student surveys are widely used in colleges and universities to evaluate courses, instructors, and learning process of the institutions. On paper, they are often described as anonymous and confidential, meaning that no individual student or instructor should be identifiable from the responses. However, in practice, this promise is not always as clear or as strong as it sounds.&lt;/p&gt;&#xA;&lt;p&gt;As a data analytics student, I recently reflected on a survey in a course called Ethics and Communication in Data Science. The survey raised an important concern: how can we be sure that the data we students provide is truly anonymous, and that neither students nor teachers are indirectly exposed? This question opens a deeper ethical discussion about how survey data is collected, stored, analyzed, and interpreted in educational settings. It is the biggest task and role for Data analyst to ensure this.&lt;/p&gt;</description>
 			</item>
 	</channel>
